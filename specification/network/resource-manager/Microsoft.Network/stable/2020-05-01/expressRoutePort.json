@@ -939,7 +939,7 @@
     "GenerateExpressRoutePortsLOAResult": {
       "description": "Response for GenerateExpressRoutePortsLOA API service call.",
       "properties": {
-        "encodedPdf": {
+        "encodedContent": {
           "type": "string",
           "description": "The pdf as a base64 encoded string."
         }

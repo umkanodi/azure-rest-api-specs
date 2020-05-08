@@ -12,7 +12,7 @@
     "200": {
       "description": "Request successful. Returns the pdf as a base64 encoded string",
       "body": {
-        "encodedPdf": "TWFuIGlzIGRpc3"
+        "encodedContent": "TWFuIGlzIGRpc3"
       }
     }
   }
